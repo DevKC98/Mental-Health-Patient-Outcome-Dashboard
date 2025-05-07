@@ -103,6 +103,25 @@ Displayed as KPI cards:
 
 ---
 
+## Features
+
+- **Demographic Breakdown**: Visualize patient distribution by gender and age group for population-level trends  
+- **Therapy & Medication Distribution**: Analyze the frequency and combination of treatment types used  
+- **Patient-Reported Experience**: Track patient feedback on mood, sleep quality, stress, and symptom severity  
+- **AI-Detected Emotional Trends**: Gain insight into patients' emotional states such as anxious, neutral, happy, or depressed  
+- **Treatment Adherence & Progress**: Measure adherence to prescribed plans and average progress scores  
+- **Outcome Tracking**: Identify how many patients improved, saw no change, or deteriorated across treatment cycles  
+
+---
+
+## Insights Enabled
+
+- **Diagnosis by Age Group**: Identify which conditions are most prevalent among teenagers versus older adults  
+- **Adherence vs. Emotional Outcomes**: Explore how closely following treatment affects mood, stress, and overall emotional health  
+- **Therapy Effectiveness**: Compare outcome trends across therapy types to determine what works best for specific diagnoses  
+- **Stress & Sleep by Demographic**: Understand how sleep quality and stress levels vary across gender and age categories  
+
+
 ## 🛠 How to Use
 
 1. Open the `.pbix` file in Power BI Desktop
